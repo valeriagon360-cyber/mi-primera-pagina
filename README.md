@@ -28,24 +28,25 @@ padding: 5px;
 <p>Esta es mi primera página web creada para la materia de páginas web.</p>
 
 <h2>Mis padres</h2>
-<p>Aquí puedes escribir los nombres de tus padres</p>
+<p>Jose Antonio Gonzalez Gamboa
+Rosalba Garduño Gomez</p>
 
 <h3>Hermanos o mascotas</h3>
-<p>Aquí puedes escribir si tienes hermanos o mascotas</p>
+<p>Maria Jose Gonzalez Garduño</p>
 
 <h2>Carreras que me interesan</h2>
 <ol>
-<li>Medicina</li>
+<li>Enfermeria</li>
 <li>Arquitectura</li>
-<li>Diseño gráfico</li>
-<li>Ingeniería</li>
+<li>Maestra</li>
+<li>Ingeniería en Biotecnologia</li>
 <li>Psicología</li>
 </ol>
 
 <h2>Hobbies</h2>
 <ul>
 <li>Escuchar música</li>
-<li>Jugar videojuegos</li>
+<li>Maquillarme</li>
 <li>Ver películas</li>
 <li>Dibujar</li>
 <li>Salir con amigos</li>
@@ -60,7 +61,11 @@ padding: 5px;
 
 <tr>
 <td>Lunes</td>
-<td>Tacos</td>
+<td>Licuado
+Pan
+Ensalada de pollo
+barra de granola
+fruta</td>
 </tr>
 
 <tr>
