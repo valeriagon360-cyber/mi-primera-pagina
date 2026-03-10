@@ -28,8 +28,9 @@ padding: 5px;
 <p>Esta es mi primera página web creada para la materia de páginas web.</p>
 
 <h2>Mis padres</h2>
-<p>Jose Antonio Gonzalez Gamboa
-Rosalba Garduño Gomez</p>
+<p>Jose Antonio Gonzalez Gamboa<p>
+ 
+</p>Rosalba Garduño Gomez</p>
 
 <h3>Hermanos o mascotas</h3>
 <p>Maria Jose Gonzalez Garduño</p>
@@ -70,32 +71,32 @@ fruta</td>
 
 <tr>
 <td>Martes</td>
-<td>Pizza</td>
+<td>licuado, carnitas, fruta, pan,torta, paleta</td>
 </tr>
 
 <tr>
 <td>Miércoles</td>
-<td>Ensalada</td>
+<td>Ensalada, licuado,pescado, huevo,chocolate</td>
 </tr>
 
 <tr>
 <td>Jueves</td>
-<td>Hamburguesa</td>
+<td>licuado, pan, fruta, torta, frijples, huevo gelatina</td></td>
 </tr>
 
 <tr>
 <td>Viernes</td>
-<td>Pasta</td>
+<td>Pasta, pescado, fruta, helado, papas, pan, barra de granola</td>
 </tr>
 
 <tr>
 <td>Sábado</td>
-<td>Pollo</td>
+<td>Pollo, torta, helado, fruta, pan, licuado</td>
 </tr>
 
 <tr>
 <td>Domingo</td>
-<td>Carne asada</td>
+<td>Carne asada, licuado, fruta, pan,</td>
 </tr>
 </table>
 
