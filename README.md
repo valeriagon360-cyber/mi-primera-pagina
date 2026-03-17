@@ -1,19 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Mi primera página</title>
-<style>
-body{
-background-color: lightblue;
-color: black;
-font-family: Arial;
-}
-table, th, td{
-border: 1px solid black;
-border-collapse: collapse;
-padding: 5px;
-}
-</style>
+
 </head>
 
 <body>
