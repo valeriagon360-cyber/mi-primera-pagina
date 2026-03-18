@@ -1,20 +1,22 @@
-<!DOCTYPE html>
+
+
+     <!DOCTYPE html>
 <html lang="es">
 <head>
     <meta charset="UTF-8">
-    <title>Mis Hobbies</title>
+    <title>Mi Primera Huella Digital</title>
 
     <style>
         body {
-            background-color: #e6ffe6;
-            color: #003300;
+            background-color: #f0fff0;
+            color: #006400;
             font-family: Georgia;
         }
         img {
-            width: 150px;
+            width: 200px;
         }
         table, th, td {
-            border: 1px solid #003300;
+            border: 1px solid #006400;
             border-collapse: collapse;
             padding: 6px;
         }
@@ -24,43 +26,57 @@
 <body>
 
 <header>
-    <h1>🐾 Mis Hobbies e Intereses 🐾</h1>
+    <h1>Sergio Vidal Sánchez Villalva</h1>
 </header>
 
 <main>
 
+    <img src="img/logo.png" alt="Mi logo">
+    <p>Este logotipo representa mi personalidad, mis intereses y mi identidad digital.</p>
+
+    <h2>Mis padres: María del Carmen Villalva Lugo y Mario Sánchez López</h2>
+    <h3>Hermanos: Mario Abraham Sánchez Villalva, Jesús Emiliano Sánchez Villalva, Santiago Armando Sánchez Villalva y Ángel Mateo Sánchez Villalva</h3>
+
+    <h2>Carreras que me interesan</h2>
+    <ol>
+        <li>Medicina Veterinaria</li>
+        <li>Entrenamiento canino</li>
+        <li>Biología</li>
+        <li>Psicología</li>
+        <li>Educación física</li>
+    </ol>
+
+    <h2>Mis hobbies</h2>
+    <ul>
+        <li>Adiestrar perros</li>
+        <li>Escuchar música</li>
+        <li>Leer</li>
+        <li>Salir a caminar</li>
+        <li>Jugar videojuegos</li>
+    </ul>
+
+    <h2>Menú semanal</h2>
     <table>
         <tr>
-            <th>Actividad</th>
-            <th>Frecuencia</th>
-            <th>¿Por qué me gusta?</th>
+            <th>Día</th>
+            <th>Comidas</th>
         </tr>
+
         <tr>
-            <td>Adiestrar perros</td>
-            <td>Frecuente</td>
-            <td>Me gustan los animales y enseñarles cosas nuevas</td>
+            <td>Lunes</td>
+            <td>Huevos con jamón, frijoles, tortillas, jugo natural</td>
         </tr>
+
         <tr>
-            <td>Escuchar música</td>
-            <td>Diario</td>
-            <td>Me relaja y mejora mi estado de ánimo</td>
+            <td>Martes</td>
+            <td>Cereal, leche, carne guisada, arroz, agua</td>
         </tr>
+
         <tr>
-            <td>Leer</td>
-            <td>Semanal</td>
-            <td>Aprendo y desarrollo mi imaginación</td>
+            <td>Miércoles</td>
+            <td>Licuado, sopa de verduras, pollo, ensalada</td>
         </tr>
-    </table>
 
-    <h2>Galería</h2>
-    <img src="img/perros.jpg" alt="Adiestrar perros">
-    <img src="img/musica.jpg" alt="Escuchar música">
-    <img src="img/leer.jpg" alt="Leer">
-
-    <br><br>
-    <a href="index.html">Volver a la página principal</a>
-
-</main>
-
-</body>
-</html>
+        <tr>
+            <td>Jueves</td>
+            <td>Pan dulce, café, pescado empanizado, arroz, limon
