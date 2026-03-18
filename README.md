@@ -1,96 +1,64 @@
 <!DOCTYPE html>
-<html>
+<html lang="es">
 <head>
+    <meta charset="UTF-8">
+    <title>Mis Hobbies</title>
 
+    <style>
+        body {
+            background-color: #e6ffe6;
+            color: #003300;
+            font-family: Georgia;
+        }
+        img {
+            width: 150px;
+        }
+        table, th, td {
+            border: 1px solid #003300;
+            border-collapse: collapse;
+            padding: 6px;
+        }
+    </style>
 </head>
 
 <body>
 
 <header>
-<h1>Julia Valeria Gonzalez Garduño</h1>
+    <h1>🐾 Mis Hobbies e Intereses 🐾</h1>
 </header>
 
 <main>
 
-<img src="img/logo.png" width="200">
-<p>Esta es mi primera página web creada para la materia de páginas web.</p>
+    <table>
+        <tr>
+            <th>Actividad</th>
+            <th>Frecuencia</th>
+            <th>¿Por qué me gusta?</th>
+        </tr>
+        <tr>
+            <td>Adiestrar perros</td>
+            <td>Frecuente</td>
+            <td>Me gustan los animales y enseñarles cosas nuevas</td>
+        </tr>
+        <tr>
+            <td>Escuchar música</td>
+            <td>Diario</td>
+            <td>Me relaja y mejora mi estado de ánimo</td>
+        </tr>
+        <tr>
+            <td>Leer</td>
+            <td>Semanal</td>
+            <td>Aprendo y desarrollo mi imaginación</td>
+        </tr>
+    </table>
 
-<h2>Mis padres</h2>
-<p>Jose Antonio Gonzalez Gamboa<p>
- 
-</p>Rosalba Garduño Gomez</p>
+    <h2>Galería</h2>
+    <img src="img/perros.jpg" alt="Adiestrar perros">
+    <img src="img/musica.jpg" alt="Escuchar música">
+    <img src="img/leer.jpg" alt="Leer">
 
-<h3>Hermanos o mascotas</h3>
-<p>Maria Jose Gonzalez Garduño</p>
-
-<h2>Carreras que me interesan</h2>
-<ol>
-<li>Enfermeria</li>
-<li>Arquitectura</li>
-<li>Maestra</li>
-<li>Ingeniería en Biotecnologia</li>
-<li>Psicología</li>
-</ol>
-
-<h2>Hobbies</h2>
-<ul>
-<li>Escuchar música</li>
-<li>Maquillarme</li>
-<li>Ver películas</li>
-<li>Dibujar</li>
-<li>Salir con amigos</li>
-</ul>
-
-<h2>Menú semanal</h2>
-<table>
-<tr>
-<th>Día</th>
-<th>Comida</th>
-</tr>
-
-<tr>
-<td>Lunes</td>
-<td>Licuado
-Pan
-Ensalada de pollo
-barra de granola
-fruta</td>
-</tr>
-
-<tr>
-<td>Martes</td>
-<td>licuado, carnitas, fruta, pan,torta, paleta</td>
-</tr>
-
-<tr>
-<td>Miércoles</td>
-<td>Ensalada, licuado,pescado, huevo,chocolate</td>
-</tr>
-
-<tr>
-<td>Jueves</td>
-<td>licuado, pan, fruta, torta, frijples, huevo gelatina</td></td>
-</tr>
-
-<tr>
-<td>Viernes</td>
-<td>Pasta, pescado, fruta, helado, papas, pan, barra de granola</td>
-</tr>
-
-<tr>
-<td>Sábado</td>
-<td>Pollo, torta, helado, fruta, pan, licuado</td>
-</tr>
-
-<tr>
-<td>Domingo</td>
-<td>Carne asada, licuado, fruta, pan,</td>
-</tr>
-</table>
-
-<br>
-
-<a href="hobbies.html">Conoce más sobre mis hobbies</a>
+    <br><br>
+    <a href="index.html">Volver a la página principal</a>
 
 </main>
 
